@@ -1,1 +1,1 @@
-# Credit-Assignment-in-Neural-Network
+# Two Neural Network experiments
